@@ -64,7 +64,7 @@ var iv = setInterval(function() {
         
         print("");
     }
-}, 10);
+}, 1000);
 
 // Call this function to clear the interval started above
 //clearInterval(iv);
